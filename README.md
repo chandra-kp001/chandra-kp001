@@ -84,6 +84,7 @@ My most recent project, [ParcelPilot](https://github.com/chandra-kp001/parcelpil
 **Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
@@ -182,7 +183,7 @@ Predicts both **whether** a flight will be delayed and **how long** the delay wi
 |---|---|---|
 | [Inventory Analytics with Advanced SQL](https://github.com/chandra-kp001/Solving-Inventory-Inefficiencies-Using-Advanced-SQL-Analytics-) | A three-layer (bronze / silver / gold) SQL analytics pipeline for a retail chain with 5,000+ SKUs — automated reorder points, turnover ratios, stockout detection and KPI reporting | `MySQL` · `Stored Procedures` · `Power BI` |
 | [LLM Evaluation Pipeline](https://github.com/chandra-kp001/llm-evaluation-pipeline) | *Architecture &amp; design specification* (documentation only — no implementation published) for a modular LLM response evaluator covering relevance, completeness, hallucination and latency/cost | `Design doc` |
-| [CPH — VS Code LeetCode Helper](https://github.com/chandra-kp001/CPH-Vscode-Leet-code-helper) | A VS Code extension that fetches test cases straight from a LeetCode problem URL, then runs your solution against them and diffs the output | `JavaScript` · `VS Code Extension API` · `C++` |
+| [CPH — VS Code LeetCode Helper](https://github.com/chandra-kp001/CPH-Vscode-Leet-code-helper) | A VS Code extension that fetches test cases straight from a LeetCode problem URL, then runs your solution against them and diffs the output | `Node.js` · `JavaScript` · `VS Code Extension API` · `axios` · `C++` |
 
 ---
 
