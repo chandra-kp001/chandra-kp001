@@ -16,13 +16,17 @@
 
 ## 🧠 About Me
 
-- 🔎 I build **retrieval-augmented systems that refuse to guess** — hybrid BM25 + vector search, cross-encoder reranking, and answers that must carry citations back to source.
-- 🕸️ I orchestrate **LLM agents with LangGraph**, using schema-constrained tool planning and deterministic calculators instead of letting a model do arithmetic.
-- 📏 I treat **evaluation as infrastructure** — RAGAS metrics wired into a CI gate that fails the build when answer quality regresses.
-- ⚙️ On the backend I ship **FastAPI services** with JWT auth, SSE streaming, SQLAlchemy models and **PostgreSQL + pgvector** migrations, packaged with Docker Compose and Make.
-- 🎧 I work on **speech and audio deep learning** — fine-tuning Wav2Vec2 for emotion recognition and building Faster-Whisper transcription pipelines.
-- 📊 I also do **data and SQL analytics** — layered MySQL warehouses, KPI modelling, and explainable ML with SHAP.
-
+- 🎓 **BTech graduate from IIT Roorkee (2026)**, with a strong interest in building software systems and exploring intelligent machines.
+- 💻 I work across the **full stack**, from modern frontend applications to scalable backend services, APIs, databases, and production infrastructure.
+- ⚙️ I enjoy building **backend systems with Java, Python, FastAPI, SQL, PostgreSQL, Docker**, and designing software with scalability and maintainability in mind.
+- 🤖 I'm deeply interested in **AI/ML and AI research**, particularly **LLMs, RAG, AI agents, reasoning, evaluation, and reliable intelligent systems**.
+- 🔎 I build **retrieval-augmented systems that refuse to guess** — combining hybrid search, reranking, source-grounded answers, and evaluation pipelines.
+- 🕸️ I experiment with **LLM agents and tool-using systems**, focusing on structured planning, deterministic tools, and reliable execution rather than blindly trusting model outputs.
+- 📏 I believe **evaluation is infrastructure** — AI systems should be measured, tested, and improved continuously rather than judged only by how impressive their demos look.
+- 🎧 I explore **speech and audio deep learning**, including speech recognition and emotion-related ML applications.
+- 📊 I also enjoy **data, SQL, analytics, and explainable ML**, turning raw data into systems and insights that can actually be understood.
+- 🧩 Beyond frameworks and tools, I'm particularly interested in **Data Structures & Algorithms, system design, software architecture, and the principles behind scalable systems**.
+- 🌱 My long-term goal is to bridge **software engineering and AI research** — understanding intelligent systems deeply while building them into reliable products.
 ---
 
 ## 🌱 What I'm Working On
