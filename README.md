@@ -28,20 +28,6 @@
 - 🧩 Beyond frameworks and tools, I'm particularly interested in **Data Structures & Algorithms, system design, software architecture, and the principles behind scalable systems**.
 - 🌱 My long-term goal is to bridge **software engineering and AI research** — understanding intelligent systems deeply while building them into reliable products.
 ---
-
-## 🌱 What I'm Working On
-
-Right now I'm focused on **making AI answers trustworthy when the source material disagrees with itself.**
-
-My most recent project, [ParcelPilot](https://github.com/chandra-kp001/parcelpilot-ai-support), is built over a deliberately adversarial corpus — a deprecated policy sitting beside the current one with near-identical tables and different numbers, customer agreements that override the same SOP in opposite directions, and closed tickets containing answers a past agent got wrong. The work is in the parts that make that survivable:
-
-- **Schema-constrained tool planning** so the model chooses actions, not free-form text
-- **Deterministic calculators** for anything involving dates, SLAs or money
-- **A verify pass** that rejects answers which aren't grounded in retrieved evidence
-- **Permission-aware contexts** — one reasoning layer, genuinely different customer vs. internal access
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -113,6 +99,21 @@ My most recent project, [ParcelPilot](https://github.com/chandra-kp001/parcelpil
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
+
+## 🌱 What I'm Working On
+
+Right now I'm focused on **making AI answers trustworthy when the source material disagrees with itself.**
+
+My most recent project, [ParcelPilot](https://github.com/chandra-kp001/parcelpilot-ai-support), is built over a deliberately adversarial corpus — a deprecated policy sitting beside the current one with near-identical tables and different numbers, customer agreements that override the same SOP in opposite directions, and closed tickets containing answers a past agent got wrong. The work is in the parts that make that survivable:
+
+- **Schema-constrained tool planning** so the model chooses actions, not free-form text
+- **Deterministic calculators** for anything involving dates, SLAs or money
+- **A verify pass** that rejects answers which aren't grounded in retrieved evidence
+- **Permission-aware contexts** — one reasoning layer, genuinely different customer vs. internal access
+
+---
+
+
 
 ## 🌍 Open Source Contributions
 
