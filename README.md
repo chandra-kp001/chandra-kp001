@@ -220,12 +220,6 @@ Predicts both **whether** a flight will be delayed and **how long** the delay wi
 
 ---
 
-## 💭 Developer Philosophy
-
-> **An AI system is only as good as what it refuses to say.**
-> Ground every answer in a source, gate every release on an evaluation, and put it behind a backend you'd be willing to page for at 3 a.m.
-
----
 
 ## 🔗 Connect
 
