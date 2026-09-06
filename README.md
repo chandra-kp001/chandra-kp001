@@ -1,20 +1,15 @@
 <h1 align="center">👋 Hi, I'm Chandra Kumar Patel</h1>
 
-<h3 align="center">AI/ML &amp; Backend Development Engineer</h3>
+<h3 align="center">Full-Stack Engineer · AI/ML Engineer · AI Research Enthusiast</h3>
 
 <p align="center">
-  Building grounded LLM systems — retrieval, agents and evaluation pipelines —<br/>
-  and the backend services that actually run them in production.
+  Building end-to-end software — from scalable backend systems and APIs<br/>
+  to modern web applications and intelligent AI/ML systems.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandrakumar-patel-17a537261/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:chandrakumarpatel761@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=chandra-kp001&style=for-the-badge&color=6E56CF&label=PROFILE+VIEWS" alt="Profile views"/>
+  Exploring AI research with a focus on LLMs, retrieval, agents, evaluation,<br/>
+  and understanding how intelligent systems can become more capable and reliable.
 </p>
 
 ---
