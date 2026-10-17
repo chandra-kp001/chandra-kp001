@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Chandra Kumar Patel</h1>
 
-<h3 align="center">Full-Stack Engineer · AI/ML Engineer · AI Research Enthusiast</h3>
+<h3 align="center"> AI/ML Engineer · AI Research Enthusiast</h3>
 
 <p align="center">
   Building end-to-end software — from scalable backend systems and APIs<br/>
